@@ -9,6 +9,6 @@ Como indican los tipos de archivo se ha usado html para conformar el espacio de 
 
 Los archivos Modelo Relacional KeepCoding Fleet.drawio , Keep_Coding_Fleet_Creation_Script.sql y Keep_Coding_Fleet_Query_Script.sql son la estructura y la organización de los datos ficticios de una serie de tablas que relacionan los coches activos de la compañía KeepCoding. El primer archivo muestra la profundidad y las relaciones entre tablas, así como el segundo crea y rellena las mismas. El tercer archivo realiza una consulta sobre los datos para sacar una serie de parámetros establecidos para visualizarlos de manera completa, ordenada y concisa.
 
-Para la práctica de Big Data Architecture los archivos DAaaS Health Improvement Concept(1).drawio y Diseño del Health Improvement DAaaS.pdf ayudan a concebir un concepto de un software diseñado para un servicio específico y la arquitectura que requeriría este servicio para funcionar correctamente.
-En el archivo PDF se detalla las diferentes partes del servicio entre el usuario, los servicios en Google Cloud como Kafka y Hadoop necesarios y los procesos. 
+Para la práctica de Big Data Architecture los archivosDAaaS Health Improvement Concept.drawio.pdf y Diseño del Health Improvement DAaaS.pdf ayudan a concebir un concepto de un software diseñado para un servicio específico y la arquitectura que requeriría este servicio para funcionar correctamente.
+En estos archivos PDF se detalla las diferentes partes del servicio entre el usuario, los servicios en Google Cloud como Kafka y Hadoop necesarios y los procesos de secuencia entre las partes.
           
